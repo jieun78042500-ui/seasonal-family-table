@@ -1,0 +1,4 @@
+import type {Metadata} from 'next';
+export const origin=(process.env.NEXT_PUBLIC_SITE_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : 'http://localhost:3000')).replace(/\/$/,'');
+export const navigation=[['/','홈'],['/season','오늘의 절기'],['/weekly','주간 식단'],['/ingredient-menu','12재료 20메뉴'],['/recipes','레시피'],['/sauces','양념 사전'],['/wellness','건강·운동'],['/blog','블로그']];
+export function metadata(title:string,description:string,path:string,image='/seasonal-table.png'):Metadata{return {title:`${title} | 제철라이프`,description,alternates:{canonical:origin+path},openGraph:{title:`${title} | 제철라이프`,description,url:origin+path,siteName:'제철라이프',locale:'ko_KR',type:'website',images:[{url:origin+image,alt:title}]},twitter:{card:'summary_large_image',title,description,images:[origin+image]}};}
