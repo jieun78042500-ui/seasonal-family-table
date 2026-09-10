@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">한눈에 보는 24절기</title>
+  <desc id="desc">봄, 여름, 가을, 겨울의 순서로 정리한 24절기표이며 백로가 강조되어 있습니다.</desc>
+  <rect width="1600" height="900" rx="48" fill="#fffdf8"/>
+  <text x="800" y="88" text-anchor="middle" font-family="sans-serif" font-size="48" font-weight="800" fill="#203127">한눈에 보는 24절기</text>
+  <text x="800" y="132" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#69756d">태양의 움직임을 따라 만나는 스물네 번의 계절</text>
+
+  <g font-family="sans-serif">
+    <rect x="55" y="180" width="350" height="650" rx="34" fill="#eef5dd"/>
+    <circle cx="110" cy="235" r="28" fill="#9dc36b"/><text x="110" y="244" text-anchor="middle" font-size="28">🌱</text>
+    <text x="155" y="246" font-size="32" font-weight="800" fill="#315b43">봄</text>
+    <text x="350" y="244" text-anchor="end" font-size="18" fill="#65745d">2월–4월</text>
+    <g font-size="23" fill="#203127">
+      <text x="95" y="330"><tspan font-weight="700">입춘</tspan><tspan x="320" text-anchor="end" fill="#69756d">2월 4일경</tspan></text>
+      <text x="95" y="410"><tspan font-weight="700">우수</tspan><tspan x="320" text-anchor="end" fill="#69756d">2월 19일경</tspan></text>
+      <text x="95" y="490"><tspan font-weight="700">경칩</tspan><tspan x="320" text-anchor="end" fill="#69756d">3월 5일경</tspan></text>
+      <text x="95" y="570"><tspan font-weight="700">춘분</tspan><tspan x="320" text-anchor="end" fill="#69756d">3월 20일경</tspan></text>
+      <text x="95" y="650"><tspan font-weight="700">청명</tspan><tspan x="320" text-anchor="end" fill="#69756d">4월 5일경</tspan></text>
+      <text x="95" y="730"><tspan font-weight="700">곡우</tspan><tspan x="320" text-anchor="end" fill="#69756d">4월 20일경</tspan></text>
+    </g>
+
+    <rect x="435" y="180" width="350" height="650" rx="34" fill="#fff0ca"/>
+    <circle cx="490" cy="235" r="28" fill="#f3c15f"/><text x="490" y="244" text-anchor="middle" font-size="28">☀️</text>
+    <text x="535" y="246" font-size="32" font-weight="800" fill="#985c19">여름</text>
+    <text x="730" y="244" text-anchor="end" font-size="18" fill="#806b49">5월–7월</text>
+    <g font-size="23" fill="#3f3527">
+      <text x="475" y="330"><tspan font-weight="700">입하</tspan><tspan x="700" text-anchor="end" fill="#806b49">5월 5일경</tspan></text>
+      <text x="475" y="410"><tspan font-weight="700">소만</tspan><tspan x="700" text-anchor="end" fill="#806b49">5월 21일경</tspan></text>
+      <text x="475" y="490"><tspan font-weight="700">망종</tspan><tspan x="700" text-anchor="end" fill="#806b49">6월 6일경</tspan></text>
+      <text x="475" y="570"><tspan font-weight="700">하지</tspan><tspan x="700" text-anchor="end" fill="#806b49">6월 21일경</tspan></text>
+      <text x="475" y="650"><tspan font-weight="700">소서</tspan><tspan x="700" text-anchor="end" fill="#806b49">7월 7일경</tspan></text>
+      <text x="475" y="730"><tspan font-weight="700">대서</tspan><tspan x="700" text-anchor="end" fill="#806b49">7월 23일경</tspan></text>
+    </g>
+
+    <rect x="815" y="180" width="350" height="650" rx="34" fill="#f9e6d6"/>
+    <circle cx="870" cy="235" r="28" fill="#df793d"/><text x="870" y="244" text-anchor="middle" font-size="28">🍂</text>
+    <text x="915" y="246" font-size="32" font-weight="800" fill="#a44e27">가을</text>
+    <text x="1110" y="244" text-anchor="end" font-size="18" fill="#836555">8월–10월</text>
+    <g font-size="23" fill="#3d2f29">
+      <text x="855" y="330"><tspan font-weight="700">입추</tspan><tspan x="1080" text-anchor="end" fill="#836555">8월 7일경</tspan></text>
+      <text x="855" y="410"><tspan font-weight="700">처서</tspan><tspan x="1080" text-anchor="end" fill="#836555">8월 23일경</tspan></text>
+      <rect x="840" y="442" width="300" height="66" rx="20" fill="#df793d"/>
+      <text x="855" y="484" fill="#fff"><tspan font-weight="800">백로</tspan><tspan x="1105" text-anchor="end" font-size="18">9월 8일경 · 오늘</tspan></text>
+      <text x="855" y="570"><tspan font-weight="700">추분</tspan><tspan x="1080" text-anchor="end" fill="#836555">9월 23일경</tspan></text>
+      <text x="855" y="650"><tspan font-weight="700">한로</tspan><tspan x="1080" text-anchor="end" fill="#836555">10월 8일경</tspan></text>
+      <text x="855" y="730"><tspan font-weight="700">상강</tspan><tspan x="1080" text-anchor="end" fill="#836555">10월 23일경</tspan></text>
+    </g>
+
+    <rect x="1195" y="180" width="350" height="650" rx="34" fill="#e8f0f2"/>
+    <circle cx="1250" cy="235" r="28" fill="#8bb8c3"/><text x="1250" y="244" text-anchor="middle" font-size="28">❄️</text>
+    <text x="1295" y="246" font-size="32" font-weight="800" fill="#38697a">겨울</text>
+    <text x="1490" y="244" text-anchor="end" font-size="18" fill="#60777d">11월–1월</text>
+    <g font-size="23" fill="#27383d">
+      <text x="1235" y="330"><tspan font-weight="700">입동</tspan><tspan x="1460" text-anchor="end" fill="#60777d">11월 7일경</tspan></text>
+      <text x="1235" y="410"><tspan font-weight="700">소설</tspan><tspan x="1460" text-anchor="end" fill="#60777d">11월 22일경</tspan></text>
+      <text x="1235" y="490"><tspan font-weight="700">대설</tspan><tspan x="1460" text-anchor="end" fill="#60777d">12월 7일경</tspan></text>
+      <text x="1235" y="570"><tspan font-weight="700">동지</tspan><tspan x="1460" text-anchor="end" fill="#60777d">12월 22일경</tspan></text>
+      <text x="1235" y="650"><tspan font-weight="700">소한</tspan><tspan x="1460" text-anchor="end" fill="#60777d">1월 5일경</tspan></text>
+      <text x="1235" y="730"><tspan font-weight="700">대한</tspan><tspan x="1460" text-anchor="end" fill="#60777d">1월 20일경</tspan></text>
+    </g>
+  </g>
+  <text x="800" y="870" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#7b847e">※ 절기 날짜는 해마다 하루 정도 달라질 수 있습니다.</text>
+</svg>
